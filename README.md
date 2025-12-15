@@ -28,7 +28,7 @@ I specialize in functional, regression, GUI, and API testing across enterprise a
 - Test Planning & Defect Management
 - Agile / Scrum | SDLC / STLC
 - JIRA, Zephyr Scale
-- SQL (Beginner)
+- SQL 
 - Selenium with Java & Python (Learning)
 
 ---
